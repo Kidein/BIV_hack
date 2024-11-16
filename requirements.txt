@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+nltk
+pymorphy2
+scikit-learn
+sentence-transformers
+xgboost
+scipy
